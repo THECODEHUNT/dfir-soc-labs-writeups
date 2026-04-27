@@ -1,1 +1,10 @@
+## Screenshots
 
+### Basic Scan Output
+![Basic Scan](screenshots/basic-scan.png)
+
+### Service Detection
+![Service Detection](screenshots/service-detection.png)
+
+### Aggressive Scan
+![Aggressive Scan](screenshots/aggressive-scan.png)
